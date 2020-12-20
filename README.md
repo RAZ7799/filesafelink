@@ -1,0 +1,1 @@
+# filesafelink.js
