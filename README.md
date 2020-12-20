@@ -1,1 +1,1 @@
-# filesafelink.js
+# filesafelink
